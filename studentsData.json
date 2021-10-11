@@ -6,14 +6,14 @@
       "department": "Bsc. CS",
       "userName":"AdheelAhmed-D3CD",
       "iLt":"Contribute to the Team and help all my friends",
-      "bgcolor":"#838B8B"
+      "bgColor":"#838B8B"
     },
     {"fname": "Adnan",
       "lname": "P",
       "department": "Bsc. CS",
       "userName":"adnan7356",
       "iLt":"Concentrate on web development",
-      "bgcolor":"black",
+      "bgColor":"black",
       "textColor":"#838B8B"
     }
   ]
