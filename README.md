@@ -6,7 +6,7 @@ A Group Project to help students kickstart in contributing to OSS
 + Update studentsData.json file with your details
 + You can optionally add 2 more extra properties to customize your cards if you are required to do so.
 ```
-# How should it look like
+# How your studentsData.json should look like
 
 ```diff
 {
