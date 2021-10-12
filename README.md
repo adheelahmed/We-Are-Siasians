@@ -16,7 +16,7 @@ A Group Project to help students kickstart in contributing to OSS
       "lname": "Ahmed",
       "department": "Bsc. CS",
       "userName":"AdheelAhmed-D3CD",
-      "iWlT":"Contribute to the Team and help all my friends",
+      "iLt":"Contribute to the Team and help all my friends",
       "bgcolor":"#838B8B"
     }
 +   ,
@@ -25,8 +25,47 @@ A Group Project to help students kickstart in contributing to OSS
 +     "lname": "Your Last Name",
 +     "department": "Your Department",
 +     "userName": "Your github username",
-+     "iWlT": "Add something you like.....iWlt=> I Would Like To"
++     "iLt": "Add something you like.....ilt=> I Would Like To"
 +   }
   ]
 }
+```
+# Optional Additions to the file
+
+```diff
+Default Color :
+Background: Aqua
+Text: Black
+
+You can change the card color by adding:
+
+"bgCOlor":"Color Name/Hex Code"
+
+Your data should be like this:
+
+      {
+      "fname":"Your First Name"
+      ......
+      ......
+      ......
++     "bgColor":"Color Name/Hex Code"
+      }
+
+If You wish to change text color, add:
+
+"textColor":"Color Name/Hex Code"
+
+
+Your data should be like this:
+
+      {
+      "fname":"Your First Name"
+      ......
+      ......
+      ......
++     "textColor":"Color Name/Hex Code"
+      }
+
+
+
 ```
