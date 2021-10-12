@@ -25,6 +25,14 @@
       "iLt":"Help others", 
       "bgColor":"white", 
       "textColor":"brown"
-    } 
+    },
+    {
+      "fname": "Mohammed",
+      "lname": "Nihal",
+      "department": "BCA",
+      "userName":"Nihal350",
+      "iLt":"Help my team mates",
+      "bgColor":"white"
+    }
   ]
 }
