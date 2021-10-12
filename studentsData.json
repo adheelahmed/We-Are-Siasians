@@ -20,11 +20,11 @@
     {
       "fname":"Irfana", 
       "lname":"Salim K V", 
-      " department ":"BSc.Food Technology", 
-      " userName":"irfana54", 
+      "department":"BSc.Food Technology", 
+      "userName":"irfana54", 
       "iLt":"help others", 
       "bgColor":"white", 
-      "textColor":"aqua"
+      "textColor":"brown"
     } 
   ]
 }
