@@ -39,7 +39,7 @@ Text: Black
 
 You can change the card color by adding:
 
-"bgCOlor":"Color Name/Hex Code"
++ "bgCOlor":"Color Name/Hex Code"
 
 Your data should be like this:
 
@@ -53,7 +53,7 @@ Your data should be like this:
 
 If You wish to change text color, add:
 
-"textColor":"Color Name/Hex Code"
++ "textColor":"Color Name/Hex Code"
 
 
 Your data should be like this:
