@@ -2,19 +2,29 @@
   "students": [
     {
       "fname": "Adheel",
-      "lname": "Ahmed",
-      "department": "Bsc. CS",
+      "lname": "Ahmed Chelakkot",
+      "department": "BSc.Computer Science",
       "userName":"AdheelAhmed-D3CD",
       "iLt":"Contribute to the Team and help all my friends",
       "bgColor":"#838B8B"
     },
-    {"fname": "Adnan",
+    {
+      "fname": "Adnan",
       "lname": "P",
-      "department": "Bsc. CS",
+      "department": "BSc.Computer Science",
       "userName":"adnan7356",
       "iLt":"Concentrate on web development",
       "bgColor":"black",
       "textColor":"#838B8B"
-    }
+    }, 
+    {
+      "fname":"Irfana", 
+      "lname":"Salim K V", 
+      " department ":"BSc.Food Technology", 
+      " userName":"irfana54", 
+      "iLt":"help others", 
+      "bgColor":"white", 
+      "textColor":"aqua"
+    } 
   ]
 }
