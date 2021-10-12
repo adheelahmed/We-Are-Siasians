@@ -27,6 +27,15 @@
       "textColor":"brown"
     },
     {
+      "fname": "Muhammed",
+      "lname": "Swabeeh",
+      "department": "BCA",
+      "userName":"SWABEEH22",
+      "iLt":"learn more",
+      "bgColor":"black",
+      "textColor":"#838B8B"
+    },
+    {
       "fname": "Mohammed",
       "lname": "Nihal",
       "department": "BCA",
