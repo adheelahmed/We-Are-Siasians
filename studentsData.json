@@ -42,6 +42,15 @@
       "userName":"Nihal350",
       "iLt":"Help my team mates",
       "bgColor":"white"
+    },
+    {
+      "fname":"Fathima", 
+      "lname":"A", 
+      "department":"BSc.Food Technology", 
+      "userName":"Fathima007", 
+      "iLt":"Help others", 
+      "bgColor":"white", 
+      "textColor":"red"
     }
   ]
 }
