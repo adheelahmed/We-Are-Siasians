@@ -51,7 +51,16 @@
       "iLt":"Help others", 
       "bgColor":"white", 
       "textColor":"red"
-    },
+    }, 
+    {
+      "fname": "Mohammed Abdul",
+      "lname": "Gafoor",
+      "department": "BCA",
+      "userName":"Mohammedabdulgafoor",
+      "iLt":"Helps my fellowes",
+      "bgColor":"#838B8B"
+    }
+    ,
     {
       "fname": "Afna",
       "lname": "Sherin",
@@ -60,6 +69,6 @@
       "iLt":"Explore about the tech world.",
       "bgColor":"black",
       "textColor":"#838B8B"
-    }
+    },
   ]
 }
