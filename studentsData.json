@@ -51,6 +51,14 @@
       "iLt":"Help others", 
       "bgColor":"white", 
       "textColor":"red"
+    }, 
+    {
+      "fname": "Mohammed Abdul",
+      "lname": "Gafoor",
+      "department": "BCA",
+      "userName":"Mohammedabdulgafoor01",
+      "iLt":"Helps my fellowes",
+      "bgColor":"#838B8B"
     }
   ]
 }
