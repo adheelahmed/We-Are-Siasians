@@ -51,7 +51,36 @@
       "iLt":"Help others", 
       "bgColor":"white", 
       "textColor":"red"
-    },
+    }, 
+    {
+      "fname": "Mohammed Abdul",
+      "lname": "Gafoor",
+      "department": "BCA",
+      "userName":"Mohammedabdulgafoor",
+      "iLt":"Helps my fellowes",
+      "bgColor":"#838B8B"
+    }
+    ,
+    {
+      "fname": "Afna",
+      "lname": "Sherin",
+      "department": "BCA",
+      "userName":"afna34",
+      "iLt":"Explore about the tech world.",
+      "bgColor":"black",
+      "textColor":"#838B8B"
+    }
+    ,
+    {
+     "fname": "Sree",
+     "lname": "Lakshmi",
+     "department": "Bsc.computer science",
+     "userName": "Sreelakshmi54",
+     "iLt": "learn more"
+     "bgColor":"black",
+     "textColor":"red"
+    }
+    ,
     {
       "fname": "Naswih",
       "lname": "Abdurahiman",
@@ -61,5 +90,5 @@
       "bgColor":"#26235c"
       "textColor":"white"
     }
-  ]
+  ] 
 }
