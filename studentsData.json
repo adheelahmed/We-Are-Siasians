@@ -51,6 +51,15 @@
       "iLt":"Help others", 
       "bgColor":"white", 
       "textColor":"red"
+    },
+    {
+      "fname": "Naswih",
+      "lname": "Abdurahiman",
+      "department": "BSc. Computer Science",
+      "userName": "naxwh",
+      "iLt": "try out new things."
+      "bgColor":"#26235c"
+      "textColor":"white"
     }
   ]
 }
