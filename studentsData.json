@@ -51,6 +51,15 @@
       "iLt":"Help others", 
       "bgColor":"white", 
       "textColor":"red"
+    },
+    {
+      "fname": "Afna",
+      "lname": "Sherin",
+      "department": "BCA",
+      "userName":"afna34",
+      "iLt":"Explore about the tech world.",
+      "bgColor":"black",
+      "textColor":"#838B8B"
     }
   ]
 }
