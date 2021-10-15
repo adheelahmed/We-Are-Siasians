@@ -1,94 +1,100 @@
 {
-  "students": [
-    {
-      "fname": "Adheel",
-      "lname": "Ahmed Chelakkot",
-      "department": "BSc.Computer Science",
-      "userName":"AdheelAhmed-D3CD",
-      "iLt":"Contribute to the Team and help all my friends",
-      "bgColor":"#838B8B"
-    },
-    {
-      "fname": "Adnan",
-      "lname": "P",
-      "department": "BSc.Computer Science",
-      "userName":"adnan7356",
-      "iLt":"Concentrate on web development",
-      "bgColor":"black",
-      "textColor":"#838B8B"
-    }, 
-    {
-      "fname":"Irfana", 
-      "lname":"Salim K V", 
-      "department":"BSc.Food Technology", 
-      "userName":"irfana54", 
-      "iLt":"Help others", 
-      "bgColor":"white", 
-      "textColor":"brown"
-    },
-    {
-      "fname": "Muhammed",
-      "lname": "Swabeeh",
-      "department": "BCA",
-      "userName":"SWABEEH22",
-      "iLt":"learn more",
-      "bgColor":"black",
-      "textColor":"#838B8B"
-    },
-    {
-      "fname": "Mohammed",
-      "lname": "Nihal",
-      "department": "BCA",
-      "userName":"Nihal350",
-      "iLt":"Help my team mates",
-      "bgColor":"white"
-    },
-    {
-      "fname":"Fathima", 
-      "lname":"A", 
-      "department":"BSc.Food Technology", 
-      "userName":"Fathima007", 
-      "iLt":"Help others", 
-      "bgColor":"white", 
-      "textColor":"red"
-    }, 
-    {
-      "fname": "Mohammed Abdul",
-      "lname": "Gafoor",
-      "department": "BCA",
-      "userName":"Mohammedabdulgafoor",
-      "iLt":"Helps my fellowes",
-      "bgColor":"#838B8B"
-    }
-    ,
-    {
-      "fname": "Afna",
-      "lname": "Sherin",
-      "department": "BCA",
-      "userName":"afna34",
-      "iLt":"Explore about the tech world.",
-      "bgColor":"black",
-      "textColor":"#838B8B"
-    }
-    ,
-    {
-     "fname": "Sree",
-     "lname": "Lakshmi",
-     "department": "Bsc.computer science",
-     "userName": "Sreelakshmi54",
-     "iLt": "learn more",
-     "bgColor":"black",
-     "textColor":"red"
-    }
-    ,
-    {
-      "fname": "Naswih",
-      "lname": "Abdurahiman",
-      "department": "BSc. Computer Science",
-      "userName": "naxwh",
-      "iLt": "try out new things.",
-      "bgColor":"#26235c",
-      "textColor":"white"
-    }
-  ] 
+   "students":[
+      {
+         "fname":"Adheel",
+         "lname":"Ahmed Chelakkot",
+         "department":"BSc.Computer Science",
+         "userName":"AdheelAhmed-D3CD",
+         "iLt":"Contribute to the Team and help all my friends",
+         "bgColor":"#838B8B"
+      },
+      {
+         "fname":"Adnan",
+         "lname":"P",
+         "department":"BSc.Computer Science",
+         "userName":"adnan7356",
+         "iLt":"Concentrate on web development",
+         "bgColor":"black",
+         "textColor":"#838B8B"
+      },
+      {
+         "fname":"Irfana",
+         "lname":"Salim K V",
+         "department":"BSc.Food Technology",
+         "userName":"irfana54",
+         "iLt":"Help others",
+         "bgColor":"white",
+         "textColor":"brown"
+      },
+      {
+         "fname":"Muhammed",
+         "lname":"Swabeeh",
+         "department":"BCA",
+         "userName":"SWABEEH22",
+         "iLt":"learn more",
+         "bgColor":"black",
+         "textColor":"#838B8B"
+      },
+      {
+         "fname":"Mohammed",
+         "lname":"Nihal",
+         "department":"BCA",
+         "userName":"Nihal350",
+         "iLt":"Help my team mates",
+         "bgColor":"white"
+      },
+      {
+         "fname":"Fathima",
+         "lname":"A",
+         "department":"BSc.Food Technology",
+         "userName":"Fathima007",
+         "iLt":"Help others",
+         "bgColor":"white",
+         "textColor":"red"
+      },
+      {
+         "fname":"Mohammed Abdul",
+         "lname":"Gafoor",
+         "department":"BCA",
+         "userName":"Mohammedabdulgafoor",
+         "iLt":"Helps my fellowes",
+         "bgColor":"#838B8B"
+      },
+      {
+         "fname":"Afna",
+         "lname":"Sherin",
+         "department":"BCA",
+         "userName":"afna34",
+         "iLt":"Explore about the tech world.",
+         "bgColor":"black",
+         "textColor":"#838B8B"
+      },
+      {
+         "fname":"Sree",
+         "lname":"Lakshmi",
+         "department":"Bsc.computer science",
+         "userName":"Sreelakshmi54",
+         "iLt":"learn more",
+         "bgColor":"black",
+         "textColor":"red"
+      },
+      {
+         "fname":"Naswih",
+         "lname":"Abdurahiman",
+         "department":"BSc. Computer Science",
+         "userName":"naxwh",
+         "iLt":"try out new things.",
+         "bgColor":"#26235c",
+         "textColor":"white"
+      },
+      {
+         "fname":"Shaheem",
+         "lname":"PP",
+         "department":"BCA",
+         "userName":"the-codeholic",
+         "iLt":"Think Different!",
+         "bgColor":"#ffffff",
+         "textColor":"#000080"
+      }
+   ]
 }
