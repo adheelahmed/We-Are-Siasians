@@ -90,5 +90,15 @@
       "bgColor":"#26235c",
       "textColor":"white"
     }
+    ,
++   {
++     "fname": "Shaheem",
++     "lname": "PP",
++     "department": "BCA",
++     "userName": "the-codeholic",
++     "iLt": "Think Different!",
+      "bgColor":"#000080",
+      "textColor":"#ffffff"
++   }
   ] 
 }
