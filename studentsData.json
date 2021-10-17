@@ -95,6 +95,15 @@
          "iLt":"Think Different!",
          "bgColor":"#ffffff",
          "textColor":"#000080"
+      },
+      {
+         "fname":"Shamil",
+         "lname":"Thaikkadan ",
+         "department":"BCA",
+         "userName":"Shamilthaikkadan",
+         "iLt":"Make a tech revolution",
+         "bgColor":"#ffffff",
+         "textColor":"#000080"
       }
    ]
 }
