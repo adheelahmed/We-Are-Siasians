@@ -104,6 +104,15 @@
          "iLt":"Make a tech revolution",
          "bgColor":"#ffffff",
          "textColor":"#000080"
+      },
+      {
+         "fname":"Abdul ",
+         "lname":"Hadi ",
+         "department":"CS",
+         "userName":"hadibp",
+         "iLt":"make diffrenes",
+         "bgColor":"#838B8B",
+         "textColor":"#218244"
       }
    ]
 }
