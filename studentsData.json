@@ -98,7 +98,7 @@
       },
       {
          "fname":"Shamil",
-         "lname":"Thaikkadan ",
+         "lname":"Thaikkadan",
          "department":"BCA",
          "userName":"Shamilthaikkadan",
          "iLt":"Make a tech revolution",
@@ -106,8 +106,8 @@
          "textColor":"#000080"
       },
       {
-         "fname":"Abdul ",
-         "lname":"Hadi ",
+         "fname":"Abdul",
+         "lname":"Hadi",
          "department":"CS",
          "userName":"hadibp",
          "iLt":"make diffrenes",
@@ -122,6 +122,24 @@
          "iLt":"accept failure",
          "bgColor":"#ffffff",
          "textColor":"#000000"
+      },
+      {
+         "fname":"Muhammed",
+         "lname":"Muhsin P",
+         "department":"BCA",
+         "userName":"Muhsinmh",
+         "iLt":"make diffrences",
+         "bgColor":"#838B8B",
+         "textColor":"#218244"
+      },
+      {
+         "fname":"Irshad",
+         "lname":"Pk ",
+         "department":"BCA",
+         "userName":"Irshad9074",
+         "iLt":"make changes",
+         "bgColor":"#838B8B",
+         "textColor":"#218244"
       }
    ]
 }
