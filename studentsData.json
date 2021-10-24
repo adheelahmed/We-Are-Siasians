@@ -98,7 +98,7 @@
       },
       {
          "fname":"Shamil",
-         "lname":"Thaikkadan ",
+         "lname":"Thaikkadan",
          "department":"BCA",
          "userName":"Shamilthaikkadan",
          "iLt":"Make a tech revolution",
@@ -106,11 +106,20 @@
          "textColor":"#000080"
       },
       {
-         "fname":"Abdul ",
+         "fname":"Abdul",
          "lname":"Hadi ",
          "department":"CS",
          "userName":"hadibp",
          "iLt":"make diffrenes",
+         "bgColor":"#838B8B",
+         "textColor":"#218244"
+      },
+      {
+         "fname":"Irshad",
+         "lname":"Pk ",
+         "department":"BCA",
+         "userName":"Irshad9074",
+         "iLt":"make changes",
          "bgColor":"#838B8B",
          "textColor":"#218244"
       }
