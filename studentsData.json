@@ -150,6 +150,15 @@
          "bgColor":"#3C096C",
          "textColor":"#C77DFF"
       },
+      {
+         "fname":"Muhammed",
+         "lname":"shafin",
+         "department":"Electronics Engineering",
+         "userName":"shafin-pk",
+         "iLt":"create a smarter life",
+         "bgColor":"black",
+         "textColor":"white"
+      },
          
    ]
 }
