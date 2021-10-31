@@ -140,6 +140,16 @@
          "iLt":"make changes",
          "bgColor":"#838B8B",
          "textColor":"#218244"
-      }
+      },
+      {
+         "fname":"Muhammed",
+         "lname":"Binzid ",
+         "department":"BCA",
+         "userName":"Binzmhd",
+         "iLt":"Help all",
+         "bgColor":"#3C096C",
+         "textColor":"#C77DFF"
+      },
+         
    ]
 }
