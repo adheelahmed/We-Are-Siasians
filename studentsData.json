@@ -9,15 +9,6 @@
          "bgColor":"#838B8B"
       },
       {
-         "fname":"Adnan",
-         "lname":"P",
-         "department":"BSc.Computer Science",
-         "userName":"adnan7356",
-         "iLt":"Concentrate on web development",
-         "bgColor":"black",
-         "textColor":"#838B8B"
-      },
-      {
          "fname":"Irfana",
          "lname":"Salim K V",
          "department":"BSc.Food Technology",
@@ -27,11 +18,11 @@
          "textColor":"brown"
       },
       {
-         "fname":"Muhammed",
-         "lname":"Swabeeh",
-         "department":"BCA",
-         "userName":"SWABEEH22",
-         "iLt":"learn more",
+         "fname":"Adnan",
+         "lname":"P",
+         "department":"BSc.Computer Science",
+         "userName":"adnan7356",
+         "iLt":"Concentrate on web development",
          "bgColor":"black",
          "textColor":"#838B8B"
       },
@@ -44,13 +35,13 @@
          "bgColor":"white"
       },
       {
-         "fname":"Fathima",
-         "lname":"A",
-         "department":"BSc.Food Technology",
-         "userName":"Fathima007",
-         "iLt":"Help others",
-         "bgColor":"white",
-         "textColor":"red"
+         "fname":"Muhammed",
+         "lname":"Swabeeh",
+         "department":"BCA",
+         "userName":"SWABEEH22",
+         "iLt":"learn more",
+         "bgColor":"black",
+         "textColor":"#838B8B"
       },
       {
          "fname":"Mohammed Abdul",
@@ -61,15 +52,15 @@
          "bgColor":"#838B8B"
       },
       {
-         "fname":"Afna",
-         "lname":"Sherin",
-         "department":"BCA",
-         "userName":"afna34",
-         "iLt":"Explore about the tech world.",
-         "bgColor":"black",
-         "textColor":"#838B8B"
+         "fname":"Fathima",
+         "lname":"A",
+         "department":"BSc.Food Technology",
+         "userName":"Fathima007",
+         "iLt":"Help others",
+         "bgColor":"white",
+         "textColor":"red"
       },
-      {
+         {
          "fname":"Sree",
          "lname":"Lakshmi",
          "department":"Bsc.computer science",
@@ -79,15 +70,15 @@
          "textColor":"red"
       },
       {
-         "fname":"Naswih",
-         "lname":"Abdurahiman",
-         "department":"BSc. Computer Science",
-         "userName":"naxwh",
-         "iLt":"try out new things.",
-         "bgColor":"#26235c",
-         "textColor":"white"
+         "fname":"Afna",
+         "lname":"Sherin",
+         "department":"BCA",
+         "userName":"afna34",
+         "iLt":"Explore about the tech world.",
+         "bgColor":"black",
+         "textColor":"#838B8B"
       },
-      {
+   {
          "fname":"Shaheem",
          "lname":"PP",
          "department":"BCA",
@@ -95,6 +86,24 @@
          "iLt":"Think Different!",
          "bgColor":"#ffffff",
          "textColor":"#000080"
+      },
+      {
+         "fname":"Naswih",
+         "lname":"Abdurahiman",
+         "department":"BSc. Computer Science",
+         "userName":"nasw1h",
+         "iLt":"try out new things.",
+         "bgColor":"#26235c",
+         "textColor":"white"
+      },
+      {
+         "fname":"Abdul",
+         "lname":"Hadi",
+         "department":"CS",
+         "userName":"hadibp",
+         "iLt":"make diffrenes",
+         "bgColor":"#838B8B",
+         "textColor":"#218244"
       },
       {
          "fname":"Shamil",
@@ -105,12 +114,12 @@
          "bgColor":"#ffffff",
          "textColor":"#000080"
       },
-      {
-         "fname":"Abdul",
-         "lname":"Hadi",
-         "department":"CS",
-         "userName":"hadibp",
-         "iLt":"make diffrenes",
+     {
+         "fname":"Muhammed",
+         "lname":"Muhsin P",
+         "department":"BCA",
+         "userName":"Muhsinmh",
+         "iLt":"make diffrences",
          "bgColor":"#838B8B",
          "textColor":"#218244"
       },
@@ -123,14 +132,14 @@
          "bgColor":"#ffffff",
          "textColor":"#000000"
       },
-      {
+       {
          "fname":"Muhammed",
-         "lname":"Muhsin P",
+         "lname":"Binzid ",
          "department":"BCA",
-         "userName":"Muhsinmh",
-         "iLt":"make diffrences",
-         "bgColor":"#838B8B",
-         "textColor":"#218244"
+         "userName":"Binzmhd",
+         "iLt":"Help all",
+         "bgColor":"#3C096C",
+         "textColor":"#C77DFF"
       },
       {
          "fname":"Irshad",
@@ -141,15 +150,7 @@
          "bgColor":"#838B8B",
          "textColor":"#218244"
       },
-      {
-         "fname":"Muhammed",
-         "lname":"Binzid ",
-         "department":"BCA",
-         "userName":"Binzmhd",
-         "iLt":"Help all",
-         "bgColor":"#3C096C",
-         "textColor":"#C77DFF"
-      },
+     
          
    ]
 }
