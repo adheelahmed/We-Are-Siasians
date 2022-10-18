@@ -18,6 +18,15 @@
       "textColor":"#838B8B"
     }, 
     {
+      "fname": "Nihal",
+      "lname": "k",
+      "department": "BCA",
+      "userName":"Nihal",
+      "iLt":"web developer",
+      "bgColor":"black",
+      "textColor":"#838B8B"
+    }
+    {
       "fname":"Irfana", 
       "lname":"Salim K V", 
       "department":"BSc.Food Technology", 
