@@ -151,12 +151,20 @@
          "textColor":"#C77DFF"
       },
       {
+         "fname":"Hridul",
+         "lname":"P K ",
+         "department":"BCA",
+         "userName":"hridulpk",
+         "iLt":"unlearn and relearn",
+         "bgColor":"#838B8B",
+         "textColor":"#218244"
+       },
+       {
         "fname": "ABHAY",
         "lname": "PC",
         "department": "Bsc computer science",
         "userName": "Abhaypc112",
-        "iLt": "Add something you like.....ilt=> I Would Like To"
-      },
-         
+        "iLt": " "
+       }, 
    ]
 }
