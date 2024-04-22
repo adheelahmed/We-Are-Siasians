@@ -133,6 +133,49 @@
          "textColor":"#218244"
       },
       {
+         "fname":"Muhammed",
+         "lname":"Binzid ",
+         "department":"BCA",
+         "userName":"Binzmhd",
+         "iLt":"Help all",
+         "bgColor":"#3C096C",
+         "textColor":"#C77DFF"
+      },
+      {
+         "fname":"Hridul",
+         "lname":"P K ",
+         "department":"BCA",
+         "userName":"hridulpk",
+         "iLt":"unlearn and relearn",
+         "bgColor":"#838B8B",
+         "textColor":"#218244"
+       },
+       {
+        "fname": "ABHAY",
+        "lname": "PC",
+        "department": "Bsc computer science",
+        "userName": "Abhaypc112",
+        "iLt": " "
+       },
+       {
+         "fname":"hasil",
+         "lname":"rahman",
+         "department":"BSc.Food Technology",
+         "userName":"hasil9037",
+         "iLt":"Help others",
+         "bgColor":"white",
+         "textColor":"brown"
+      },
+      {
+         "fname":"Akash",
+         "lname":"cp",
+         "department":"BCA",
+         "userName":"akashcp8943",
+         "iLt":"Help others",
+         "bgColor":"white",
+         "textColor":"brown"
+      },
+      {
          "fname":"Ahammed ",
          "lname":"Hinas kk ",
          "department":"BCA",
@@ -140,6 +183,8 @@
          "iLt":"accept failure",
          "bgColor":"#ffffff",
          "textColor":"#000000"
-      }
+       },
+//Add New Data After This Section.
+
    ]
 }
