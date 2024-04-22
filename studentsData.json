@@ -27,23 +27,6 @@
          "textColor":"brown"
       },
       {
-
-         "fname":"Akash",
-
-         "lname":"cp",
-
-         "department":"BCA",
-
-         "userName":"akashcp8943",
-
-         "iLt":"Help others",
-
-         "bgColor":"white",
-
-         "textColor":"brown"
-
-      },
-      {
          "fname":"Muhammed",
          "lname":"Swabeeh",
          "department":"BCA",
@@ -166,6 +149,15 @@
          "iLt":"Help all",
          "bgColor":"#3C096C",
          "textColor":"#C77DFF"
+      },
+      {
+         "fname":"Akash",
+         "lname":"cp",
+         "department":"BCA",
+         "userName":"akashcp8943",
+         "iLt":"Help others",
+         "bgColor":"white",
+         "textColor":"brown"
       },
          
    ]
