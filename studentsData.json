@@ -151,6 +151,31 @@
          "textColor":"#C77DFF"
       },
       {
+         "fname":"Hridul",
+         "lname":"P K ",
+         "department":"BCA",
+         "userName":"hridulpk",
+         "iLt":"unlearn and relearn",
+         "bgColor":"#838B8B",
+         "textColor":"#218244"
+       },
+       {
+        "fname": "ABHAY",
+        "lname": "PC",
+        "department": "Bsc computer science",
+        "userName": "Abhaypc112",
+        "iLt": " "
+       },
+       {
+         "fname":"hasil",
+         "lname":"rahman",
+         "department":"BSc.Food Technology",
+         "userName":"hasil9037",
+         "iLt":"Help others",
+         "bgColor":"white",
+         "textColor":"brown"
+      },
+      {
          "fname":"Akash",
          "lname":"cp",
          "department":"BCA",
@@ -159,6 +184,6 @@
          "bgColor":"white",
          "textColor":"brown"
       }
-         
+
    ]
 }
